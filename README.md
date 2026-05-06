@@ -75,7 +75,7 @@ Sim, a HG Tech Solutions oferece suporte e manutenção abrangente após o desen
 
 
 Sobre Nós
-Sobre as HG Tech Solutions
+
 A HG Tech Solutions, fundada em 20XX, é referência em desenvolvimento de software com sede em Montes Claros. Reunimos uma estrutura de equipe forte e única.
 Com mais de doze anos na indústria, contamos com uma equipe de XXX engenheiros de software qualificados. Até o momento, concluímos mais de XXX projetos bem-sucedidos de desenvolvimento de software em diversos setores. A HG Tech Solutions é dedicada a oferecer serviços de desenvolvimento de software de alta qualidade, fortalecendo nossa posição de marca globalmente. Nossa missão é construir softwares de padrao internacional que permite empresas escalar com confiança.
 
