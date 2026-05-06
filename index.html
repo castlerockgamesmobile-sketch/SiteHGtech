@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sua Empresa | Soluções Digitais</title>
+  <style>
+    /* Reset básico */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Roboto', sans-serif; background-color: #0f172a; color: #f1f5f9; line-height: 1.6; }
+
+    header { background: #1e293b; padding: 1rem 2rem; position: sticky; top: 0; z-index: 1000; }
+    nav { display: flex; justify-content: space-between; align-items: center; }
+    nav .logo { font-size: 1.5rem; font-weight: bold; color: #38bdf8; }
+    nav .menu { list-style: none; display: flex; gap: 1.5rem; }
+    nav .menu a { color: #f1f5f9; text-decoration: none; transition: color 0.3s; }
+    nav .menu a:hover { color: #38bdf8; }
+
+    #hero { text-align: center; padding: 6rem 2rem; background: linear-gradient(135deg, #0f172a, #1e293b); }
+    #hero h1 { font-size: 3rem; color: #38bdf8; }
+    #hero p { margin: 1rem 0; font-size: 1.2rem; }
+    #hero .btn { background: #38bdf8; color: #0f172a; padding: 0.8rem 1.5rem; border-radius: 5px; text-decoration: none; font-weight: bold; transition: background 0.3s; }
+    #hero .btn:hover { background: #0ea5e9; }
+
+    section { padding: 4rem 2rem; max-width: 1200px; margin: auto; }
+    h2 { font-size: 2rem; margin-bottom: 2rem; text-align: center; color: #38bdf8; }
+
+    #servicos .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; }
+    .card { background: #1e293b; padding: 2rem; border-radius: 8px; text-align: center; transition: transform 0.3s, background 0.3s; cursor: pointer; }
+    .card:hover { transform: translateY(-5px); background: #0ea5e9; color: #0f172a; }
+
+    .descricao { display: none; margin-top: 1rem; font-size: 0.95rem; color: #f1f5f9; }
+
+    footer { text-align: center; padding: 2rem; background: #1e293b; color: #94a3b8; }
+  </style>
+</head>
+<body>
+  <!-- Header / Navbar -->
+  <header>
+    <nav>
+      <div class="logo">Sua Empresa</div>
+      <ul class="menu">
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#servicos">Serviços</a></li>
+        <li><a href="#cases">Cases</a></li>
+        <li><a href="#depoimentos">Depoimentos</a></li>
+        <li><a href="#blog">Blog</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <h1>Soluções Digitais para o Futuro</h1>
+    <p>Transforme sua ideia em realidade com tecnologia de ponta.</p>
+    <a href="#contato" class="btn">Agende uma consulta</a>
+  </section>
+
+  <!-- Serviços -->
+  <section id="servicos">
+    <h2>Nossos Serviços</h2>
+    <div class="grid">
+      <div class="card" id="softwareDev">
+        Software Development
+        <div class="descricao">
+          Criamos softwares personalizados para atender às necessidades específicas da sua empresa, com foco em escalabilidade, segurança e inovação.
+        </div>
+      </div>
+      <div class="card">Mobile App Development</div>
+      <div class="card">Web Design & Development</div>
+      <div class="card">AI Solutions</div>
+      <div class="card">Cloud & Infra</div>
+      <div class="card">Testing & QA</div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Sua Empresa. Todos os direitos reservados.</p>
+  </footer>
+
+  <!-- JavaScript -->
+  <script>
+    // Ao clicar no card "Software Development", alterna a descrição
+    const softwareCard = document.getElementById("softwareDev");
+    const descricao = softwareCard.querySelector(".descricao");
+
+    softwareCard.addEventListener("click", () => {
+      if (descricao.style.display === "block") {
+        descricao.style.display = "none";
+      } else {
+        descricao.style.display = "block";
+      }
+    });
+  </script>
+</body>
+</html>
