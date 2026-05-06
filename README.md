@@ -38,14 +38,14 @@ Acelere sua jornada digital com nosso conjunto abrangente de serviços. A HG TEc
 Expertise no setor
 Oferecemos ampla experiência em desenvolvimento de software em diversos setores, garantindo soluções personalizadas para o seu negócio.
 
-Indústria de Logística 
-Fintech
-Indústria da Saúde 
-Indústria de Desenvolvimento de Software Empresarial
-Indústria de Comércio Eletrônico Singapura
-Indústria Imobiliária 
-Indústria de Varejo 
-Indústria Educacional 
+* Indústria de Logística 
+* Fintech
+* Indústria da Saúde 
+* Indústria de Desenvolvimento de Software Empresarial
+* Indústria de Comércio Eletrônico Singapura
+* Indústria Imobiliária 
+* Indústria de Varejo 
+* Indústria Educacional 
 
 Por que escolher a HG Tech Solutions como seu parceiro confiável de desenvolvimento de software?
 
