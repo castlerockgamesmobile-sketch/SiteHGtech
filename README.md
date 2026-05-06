@@ -1,4 +1,4 @@
-# Site HG tech Solutions
+# Site HG Tech Solutions
 
 Oi Higgor no icones do site pensei nessas descrições: 
 
