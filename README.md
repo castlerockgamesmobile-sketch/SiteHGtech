@@ -1,6 +1,6 @@
 # Site HG Tech Solutions
 
-Oi Higgor nos icones do site pensei nessas descrições: 
+Oi Higgor, nos icones do site pensei nessas descrições: 
 
 Nossos Serviços
 
