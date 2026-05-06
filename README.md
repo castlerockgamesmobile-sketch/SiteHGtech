@@ -3,7 +3,8 @@
 Oi Higgor no icones do site pensei nessas descrições: 
 
 Nossos Serviços
-Na TechTIQ Solutions, oferecemos serviços abrangentes de desenvolvimento de software de ponta a ponta, projetados para apoiar cada etapa do seu projeto. Nossa expertise abrange consultoria de software, desenvolvimento e além, permitindo que guiemos seu projeto de forma fluida desde o conceito inicial até a implantação e suporte contínuo.
+
+Na HG Tech Solutions, oferecemos serviços abrangentes de desenvolvimento de software de ponta a ponta, projetados para apoiar cada etapa do seu projeto. Nossa expertise abrange consultoria de software, desenvolvimento e além, permitindo que guiemos seu projeto de forma fluida desde o conceito inicial até a implantação e suporte contínuo.
 
 Desenvolvimento de Software (ICONE) 
 
